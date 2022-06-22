@@ -466,7 +466,7 @@ contextInfo: {
 "mentionedJid": [m.sender, owner],
 "externalAdReply": {
 "showAdAttribution": true,
-"title": `𝚃𝚄𝚃𝙾𝚁𝙸𝙰𝙻 𝙳𝙴 𝙸𝙽𝚂𝚃𝙰𝙻𝙰𝙲𝙸𝙾𝙽`,
+"title": `（︶︿︶）＝凸 `,
 "mediaType": 2, 
 "previewType": "VIDEO",
 "thumbnail": imagen3,
