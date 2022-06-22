@@ -16,6 +16,13 @@ conn.sendHydrated(m.chat, `
 ['𝐀𝐔𝐃𝐈𝐎', `${usedPrefix}yta ${url} yes`],
 ['𝐕𝐈𝐃𝐄𝐎', `${usedPrefix}ytv ${url} yes`]
 ], m)
+ let info = `𝙴𝙽 𝙳𝙾𝙲𝚄𝙼𝙴𝙽𝚃𝙾`.trim()  
+await conn.sendHydrated(m.chat, info, wm, thumbnail, 'https://www.youtube.com', '𝕐𝕆𝕌𝕋𝕌𝔹𝔼', null, null, [
+['𝐀𝐔𝐃𝐈𝐎', `${usedPrefix}yta.2 ${url} yes`],
+['𝐕𝐈𝐃𝐄𝐎', `.ytv.2 ${url} yes`],
+['𝘽𝙪𝙨𝙘𝙖𝙧 🔎', `.ytsearch ${url} yes`]
+], m,)
+  
 }catch(e){
 m.reply('*[❗𝐈𝐍𝐅𝐎❗] 𝙴𝚁𝚁𝙾𝚁, 𝙿𝙾𝚁 𝙵𝙰𝚅𝙾𝚁 𝚅𝚄𝙴𝙻𝚅𝙰 𝙰 𝙸𝙽𝚃𝙴𝙽𝚃𝙰𝚁𝙻𝙾*')
 console.log(e)
