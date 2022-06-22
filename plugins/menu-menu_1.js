@@ -458,7 +458,7 @@ jpegThumbnail: imagen1,
 caption: texto1,
 fileLength: "99999999999999",
 mentions:[m.sender, owner],
-footer: `𝔹𝕪 𝔹𝕣𝕦𝕟𝕠 𝕊𝕠𝕓𝕣𝕚𝕟𝕠`,
+footer: `𝚃𝚑𝚎 𝙼𝚢𝚜𝚝𝚒𝚌 𝙱𝚘𝚝`,
 buttons: buttons,
 headerType: 4,
     
