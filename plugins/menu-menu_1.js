@@ -89,6 +89,7 @@ let texto1 = `╭═─═─═─═─═─═─═╮
 ║
 ╰╮
 ╠ <𝕀ℕ𝔽𝕆ℝ𝕄𝔸ℂ𝕀𝕆ℕ 𝔻𝔼𝕃 𝔹𝕆𝕋/>
+║
 ║° ඬ ⃟ 💟 _${usedPrefix}grupos_
 ║° ඬ ⃟ 💟 _${usedPrefix}estado_
 ║° ඬ ⃟ 💟 _${usedPrefix}infobot_
@@ -97,7 +98,9 @@ let texto1 = `╭═─═─═─═─═─═─═╮
 ║° ඬ ⃟ 💟 _${usedPrefix}owner_
 ║° ඬ ⃟ 💟 _${usedPrefix}script_
 ║° ඬ ⃟ 💟 _Bot_ (𝑢𝑠𝑜 𝑠𝑖𝑛 𝑝𝑟𝑒𝑓𝑖𝑗𝑜)
+║
 ╠ <𝕌ℕ𝔼 𝕌ℕ 𝔹𝕆𝕋 𝔸 𝕋𝕌 𝔾ℝ𝕌ℙ𝕆/>
+║
 ║° ඬ⃟👽 _${usedPrefix}join *<enlace / link / url>*_
 ╠  <𝕁𝕌𝔼𝔾𝕆𝕊/>
 ║° ඬ⃟🎖️ _${usedPrefix}mates *<noob / easy / medium / hard / extreme /impossible /impossible2>*_
@@ -124,7 +127,9 @@ let texto1 = `╭═─═─═─═─═─═─═╮
 ║° ඬ⃟🎖️ _${usedPrefix}formarpareja_
 ║° ඬ⃟🎖️ _${usedPrefix}verdad_
 ║° ඬ⃟🎖️ _${usedPrefix}reto_
+║
 ╠ <𝔸ℂ𝕋𝕀𝕍𝔸ℝ 𝕆 𝔻𝔼𝕊𝔸ℂ𝕋𝕀𝕍𝔸ℝ/>
+║
 ║° ඬ⃟☑️ _${usedPrefix}enable *welcome*_
 ║° ඬ⃟☑️ _${usedPrefix}disable *welcome*_
 ║° ඬ⃟☑️ _${usedPrefix}enable *modohorny*_
@@ -139,9 +144,13 @@ let texto1 = `╭═─═─═─═─═─═─═╮
 ║° ඬ⃟☑️ _${usedPrefix}disable *audios*_
 ║° ඬ⃟☑️ _${usedPrefix}enable *autosticker*_
 ║° ඬ⃟☑️ _${usedPrefix}disable *autosticker*_
+║
 ╠ <ℝ𝔼ℙ𝕆ℝ𝕋𝔼𝕊 𝔻𝔼 𝔽𝔸𝕃𝕃𝕆𝕊/>
+║
 ║° ඬ⃟🔰 _${usedPrefix}reporte *<texto>*_
+║
 ╠ <𝔻𝔼𝕊ℂ𝔸ℝ𝔾𝔸𝕊/>
+║
 ║° ඬ⃟📥 _${usedPrefix}facebook *<enlace / link / url>*_
 ║° ඬ⃟📥 _${usedPrefix}instagram *<enlace / link / url>*_
 ║° ඬ⃟📥 _${usedPrefix}mediafire *<enlace / link / url>*_
@@ -166,7 +175,9 @@ let texto1 = `╭═─═─═─═─═─═─═╮
 ║° ඬ⃟📥 _${usedPrefix}igstalk *<nombre de usuario>*_
 ║° ඬ⃟📥 _${usedPrefix}igstory *<nombre de usuario>*_
 ║° ඬ⃟📥 _${usedPrefix}tiktokstalk *<nombre de usuario>*_
+║
 ╠ <𝔾ℝ𝕌ℙ𝕆𝕊/>
+║
 ║° ඬ⃟💎 _${usedPrefix}add *<numero>*_
 ║° ඬ⃟💎 _${usedPrefix}kick *<@tag>*_
 ║° ඬ⃟💎 _${usedPrefix}grupo *<abrir / cerrar>*_
@@ -182,14 +193,18 @@ let texto1 = `╭═─═─═─═─═─═─═╮
 ║° ඬ⃟💎 _${usedPrefix}setwelcome *<texto>*_
 ║° ඬ⃟💎 _${usedPrefix}setbye *<texto>*_
 ║° ඬ⃟💎 _${usedPrefix}hidetag *<texto>*_
+║
 ╠ <ℂ𝕆ℕ𝕍𝔼ℝ𝕋𝕀𝔻𝕆ℝ𝔼𝕊/>
+║
 ║° ඬ⃟🧧 _${usedPrefix}toimg *<responde a un sticker>*_
 ║° ඬ⃟🧧 _${usedPrefix}tomp3 *<responde a un video / nota de voz>*_
 ║° ඬ⃟🧧 _${usedPrefix}toptt *<responde a un video / audio>*_
 ║° ඬ⃟🧧 _${usedPrefix}tovideo *<responde a un audio>*_
 ║° ඬ⃟🧧 _${usedPrefix}tourl *<responde a un video / imagen / audio>*_
 ║° ඬ⃟🧧 _${usedPrefix}tts es *<texto>*_
+║
 ╠ <𝔼𝔽𝔼ℂ𝕋𝕆𝕊 𝕐 𝕃𝕆𝔾𝕆𝕊/>
+║
 ║° ඬ⃟🖍️ _${usedPrefix}logos *<efecto> <texto>*_
 ║° ඬ⃟🖍️ _${usedPrefix}simpcard *<@tag>*_
 ║° ඬ⃟🖍️ _${usedPrefix}hornycard *<@tag>*_
@@ -198,7 +213,9 @@ let texto1 = `╭═─═─═─═─═─═─═╮
 ║° ඬ⃟🖍️ _${usedPrefix}itssostupid_
 ║° ඬ⃟🖍️ _${usedPrefix}pixelar_
 ║° ඬ⃟🖍️ _${usedPrefix}blur_
+║
 ╠ <ℝ𝔸ℕ𝔻𝕆𝕄/>
+║
 ║° ඬ⃟👾 _${usedPrefix}cristianoronaldo_
 ║° ඬ⃟👾 _${usedPrefix}messi_
 ║° ඬ⃟👾 _${usedPrefix}meme_
@@ -246,7 +263,9 @@ let texto1 = `╭═─═─═─═─═─═─═╮
 ║° ඬ⃟👾 _${usedPrefix}sasuke_
 ║° ඬ⃟👾 _${usedPrefix}sakura_
 ║° ඬ⃟👾 _${usedPrefix}cosplay_
+║
 ╠ <ℂ𝕆𝕄𝔸ℕ𝔻𝕆𝕊 +𝟙𝟠/>
+║
 ║° ඬ⃟🔞 _${usedPrefix}pack_
 ║° ඬ⃟🔞 _${usedPrefix}pack2_
 ║° ඬ⃟🔞 _${usedPrefix}pack3_
@@ -278,7 +297,9 @@ let texto1 = `╭═─═─═─═─═─═─═╮
 ║° ඬ⃟🔞 _${usedPrefix}nsfwero_
 ║° ඬ⃟🔞 _${usedPrefix}nsfwfemdom_
 ║° ඬ⃟🔞 _${usedPrefix}nsfwglass_
+║
 ╠ <𝔼𝔽𝔼ℂ𝕋𝕆𝕊 𝔻𝔼 𝔸𝕌𝔻𝕀𝕆𝕊/>
+║
 ║*- 𝚁𝙴𝚂𝙿𝙾𝙽𝙳𝙴 𝙰 𝚄𝙽 𝙰𝚄𝙳𝙸𝙾 𝙾 𝙽𝙾𝚃𝙰 𝙳𝙴 𝚅𝙾𝚉*
 ║° ඬ⃟🎤 _${usedPrefix}bass_
 ║° ඬ⃟🎤 _${usedPrefix}blown_
@@ -292,11 +313,15 @@ let texto1 = `╭═─═─═─═─═─═─═╮
 ║° ඬ⃟🎤 _${usedPrefix}slow_
 ║° ඬ⃟🎤 _${usedPrefix}smooth_
 ║° ඬ⃟🎤 _${usedPrefix}tupai_
+║
 ╠ <ℂℍ𝔸𝕋 𝔸ℕ𝕆ℕ𝕀𝕄𝕆/>
+║
 ║° ඬ⃟📳 _${usedPrefix}start_
 ║° ඬ⃟📳 _${usedPrefix}next_
 ║° ඬ⃟📳 _${usedPrefix}leave_
+║
 ╠ <𝔹𝕌𝕊ℂ𝔸𝔻𝕆ℝ𝔼𝕊/>
+║
 ║° ඬ⃟🔍 _${usedPrefix}animeinfo *<texto>*_
 ║° ඬ⃟🔍 _${usedPrefix}google *<texto>*_
 ║° ඬ⃟🔍 _${usedPrefix}letra *<texto>*_
@@ -311,7 +336,9 @@ let texto1 = `╭═─═─═─═─═─═─═╮
 ║° ඬ⃟🔍 _${usedPrefix}revdl *<texto>*_
 ║° ඬ⃟🔍 _${usedPrefix}toraccino *<texto>*_
 ║° ඬ⃟🔍 _${usedPrefix}uapkpro *<texto>*_
+║
 ╠ <𝔸𝕌𝔻𝕀𝕆𝕊/>
+║
 ║*- 𝙴𝚂𝙲𝚁𝙸𝙱𝙴 𝙻𝙰𝚂 𝚂𝙸𝙶𝚄𝙸𝙴𝙽𝚃𝙴𝚂 𝙿𝙰𝙻𝙰𝙱𝚁𝙰𝚂 𝙾 𝙵𝚁𝙰𝚂𝙴𝚂 𝚂𝙸𝙽 𝙽𝙸𝙽𝙶𝚄𝙽 𝙿𝚁𝙴𝙵𝙸𝙹𝙾 (#, /, *, .)* 
 ║_(𝑢𝑠𝑜 𝑠𝑖𝑛 𝑝𝑟𝑒𝑓𝑖𝑗𝑜)_
 ║° ඬ⃟🔊 _Quien es tu sempai botsito 7w7_
@@ -352,7 +379,9 @@ let texto1 = `╭═─═─═─═─═─═─═╮
 ║° ඬ⃟🔊 _UwU_
 ║° ඬ⃟🔊 _:c_
 ║° ඬ⃟🔊 _a_
+║
 ╠ <ℍ𝔼ℝℝ𝔸𝕄𝕀𝔼ℕ𝕋𝔸𝕊/>
+║
 ║° ඬ⃟🛠️ _${usedPrefix}afk *<motivo>*_
 ║° ඬ⃟🛠️ _${usedPrefix}acortar *<enlace / link / url>*_
 ║° ඬ⃟🛠️ _${usedPrefix}calc *<operacion math>*_
@@ -376,7 +405,9 @@ let texto1 = `╭═─═─═─═─═─═─═╮
 ║° ඬ⃟💵 _${usedPrefix}transfer *<tipo> <cantidad> <@tag>*_
 ║° ඬ⃟💵 _${usedPrefix}verificar_
 ║° ඬ⃟💵 _${usedPrefix}unreg *<numero de serie>*_
+║
 ╠ <𝕊𝕋𝕀ℂ𝕂𝔼ℝ𝕊/>
+║
 ║° ඬ⃟👽 _${usedPrefix}sticker *<responder a imagen o video>*_
 ║° ඬ⃟👽 _${usedPrefix}sticker *<enlace / link / url>*_
 ║° ඬ⃟👽 _${usedPrefix}s *<responder a imagen o video>*_
@@ -392,7 +423,9 @@ let texto1 = `╭═─═─═─═─═─═─═╮
 ║° ඬ⃟👽 _${usedPrefix}wm *<packname> <author>*_
 ║° ඬ⃟👽 _${usedPrefix}stickermarker *<efecto> <responder a imagen>*_
 ║° ඬ⃟👽 _${usedPrefix}stickerfilter *<efecto> <responder a imagen>*_
+║
 ╠ <𝕆𝕎ℕ𝔼ℝ 𝕐 𝕄𝕆𝔻𝔼ℝ𝔸𝔻𝕆ℝ𝔼𝕊/>
+║
 ║° ඬ⃟👑 _${usedPrefix}cajafuerte_
 ║° ඬ⃟👑 _${usedPrefix}enable *restrict*_
 ║° ඬ⃟👑 _${usedPrefix}disable *restrict*_
@@ -418,6 +451,7 @@ let texto1 = `╭═─═─═─═─═─═─═╮
 ║° ඬ⃟👑 _${usedPrefix}addprem *<@tag>*_
 ║° ඬ⃟👑 _${usedPrefix}delprem *<@tag>*_
 ║° ඬ⃟👑 _${usedPrefix}listprem_
+  ║
 ╭─╯
 ╠╯
 ║ㅤㅤㅤ A____A
@@ -470,7 +504,7 @@ contextInfo: {
 "mediaType": 2, 
 "previewType": "VIDEO",
 "thumbnail": imagen3,
-"mediaUrl": 'https://youtu.be/eC9TfKICpcY',
+"mediaUrl": 'https://chat.whatsapp.com/E9qJfvlLjENKAxnhII9rao',
 "sourceUrl": 'https://www.pornhub.com'
 }}} 
 
