@@ -24,11 +24,11 @@ import fetch from 'node-fetch'
 import cheerio from 'cheerio'
 var effects = [
     {
-    "title": "create-a-summer",
+    "title": "a-summer",
     "url": "https://textpro.me/create-a-summer-text-effect-with-a-palm-tree-1083.html"
     },   
     {
-    "title": "create-realistic-golden",
+    "title": "realistic-golden",
     "url": "https://textpro.me/create-realistic-golden-text-effect-on-red-sparkles-online-1082.html"
     },
     {
@@ -40,7 +40,7 @@ var effects = [
     "url": "https://textpro.me/create-a-blackpink-logo-decorated-with-roses-online-free-1080.html"
    },  
    {
-    "title": "create-blackpink-style",
+    "title": "blackpink-style",
     "url": "https://textpro.me/create-blackpink-style-logo-effects-online-1079.html"
    },
    {
@@ -48,11 +48,11 @@ var effects = [
     "url": "https://textpro.me/3d-business-sign-text-effect-1078.html"
    },  
    {
-    "title": "create-diamonds",
+    "title": "diamonds",
     "url": "https://textpro.me/create-a-quick-sparkling-diamonds-text-effect-1077.html"
   },
   {
-    "title": "create-a-summer-neon",
+    "title": "a-summer-neon",
     "url": "https://textpro.me/create-a-summer-neon-light-text-effect-online-1076.html"
   },
   {
@@ -60,19 +60,19 @@ var effects = [
     "url": "https://textpro.me/free-creative-3d-golden-text-effect-online-1075.html"
   },
   {
-    "title": "create-carved-stone",
+    "title": "carved-stone",
     "url": "https://textpro.me/create-carved-stone-text-effect-online-1074.html"
   }, 
   {
-    "title": "create-a-3d-stone",
+    "title": "a-3d-stone",
     "url": "https://textpro.me/create-a-3d-stone-text-effect-online-for-free-1073.html"
   },
   {
-    "title": "create-3d-style-glass",
+    "title": "3d-style-glass",
     "url": "https://textpro.me/create-3d-style-glass-text-effect-online-1072.html"
   },
   {
-    "title": "create-a-3d-luxury-metallic",
+    "title": "a-3d-luxury-metallic",
     "url": "https://textpro.me/create-a-3d-luxury-metallic-text-effect-for-free-1071.html"
   }, 
   {
@@ -80,15 +80,15 @@ var effects = [
     "url": "https://textpro.me/elegant-white-gold-3d-text-effect-online-free-1070.html"
   },
   {
-    "title": "create-3d-giraffe",
+    "title": "3d-giraffe",
     "url": "https://textpro.me/create-3d-giraffe-text-effect-online-1069.html"
   },
   {
-    "title": "create-light-glow-sliced",
+    "title": "light-glow-sliced",
     "url": "https://textpro.me/create-light-glow-sliced-text-effect-online-1068.html"
   },
   {
-    "title": "create-text-effects-arcane-tv-series",
+    "title": "effects-arcane-tv-series",
     "url": "https://textpro.me/create-text-effects-arcane-tv-series-online-1067.html"
   },
   {
@@ -96,11 +96,11 @@ var effects = [
     "url": "https://textpro.me/make-a-batman-logo-online-free-1066.html"
   },
   {
-    "title": "create-3d-retro",
+    "title": "3d-retro",
     "url": "https://textpro.me/create-3d-retro-text-effect-online-free-1065.html"
   },  
   {
-    "title": "create-thor-logo-style",
+    "title": "thor-logo-style",
     "url": "https://textpro.me/create-thor-logo-style-text-effect-online-1064.html"
   },
   {
@@ -108,11 +108,11 @@ var effects = [
     "url": "https://textpro.me/neon-light-glitch-text-generator-online-1063.html"
   },
   {
-    "title": "create-neon-light-on-brick-wall",
+    "title": "neon-light-on-brick-wall",
     "url": "https://textpro.me/create-neon-light-on-brick-wall-online-1062.html"
   },
   {
-    "title": "create-glowing-neon-light",
+    "title": "glowing-neon-light",
     "url": "https://textpro.me/create-glowing-neon-light-text-effect-online-free-1061.html"
   },
   {
@@ -132,7 +132,7 @@ var effects = [
     "url": "https://textpro.me/christmas-tree-text-effect-online-free-1057.html"
    },  
    {
-    "title": "create-christmas-candy-cane",
+    "title": "christmas-candy-cane",
     "url": "https://textpro.me/create-christmas-candy-cane-text-effect-1056.html"
    },
    {
