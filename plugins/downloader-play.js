@@ -14,9 +14,10 @@ conn.sendHydrated(m.chat, `
 👀 *𝚅𝙸𝚂𝚃𝙰𝚂:* ${viewH}
 `.trim(), author, thumbnail, `${url}`, '𝚄𝚁𝙻', null, null, [
 ['𝐀𝐔𝐃𝐈𝐎', `${usedPrefix}yta ${url} yes`],
-['𝐕𝐈𝐃𝐄𝐎', `${usedPrefix}ytv ${url} yes`]
+['𝐕𝐈𝐃𝐄𝐎', `${usedPrefix}ytv ${url} yes`], 
+['𝐌𝐀𝐒 𝐑𝐄𝐒𝐔𝐋𝐓𝐀𝐃𝐎𝐒', `${usedPrefix}playlist ${text}`]
 ], m)
- let info = `𝙴𝙽 𝙳𝙾𝙲𝚄𝙼𝙴𝙽𝚃𝙾`.trim()  
+ let info = `*◉— 𝐏𝐋𝐀𝐘 𝐃𝐎𝐂𝐔𝐌𝐄𝐍𝐓 —◉*`.trim()  
 await conn.sendHydrated(m.chat, info, wm, thumbnail, 'https://www.youtube.com', '𝕐𝕆𝕌𝕋𝕌𝔹𝔼', null, null, [
 ['𝐀𝐔𝐃𝐈𝐎', `${usedPrefix}yta.2 ${url} yes`],
 ['𝐕𝐈𝐃𝐄𝐎', `.ytv.2 ${url} yes`],
